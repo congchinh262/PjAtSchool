@@ -1,0 +1,537 @@
+<!-- Start sp moi -->
+                    <div class="sp-moi">
+                        <h2>SẢN PHẨM MỚI</h2>
+                        <div class="prdt-container">
+                            <div id="product-index-1" class="carousel slide my-carousel-style" data-ride="carousel">
+                                <div class="carousel-inner">
+                                    <div class="carousel-item active ">
+                                        <div class="row">
+                                            <div class="col-lg-3 col-md-4 d-flex align-items-md-stretch">
+                                                <div class="card">
+                                                    <div class="prdt-img">
+                                                        <img class="card-img-top card-img-size" src="./image/1.jpg"
+                                                            alt="Card image cap" />
+                                                        <div class="prdt-bg-opacity">
+                                                            <div class="prdt-command">
+                                                                <a onclick="showDetail('VGA11')"
+                                                                    class="btn btn-primary align-self-end btn-block text-white"
+                                                                    style="margin-top: auto">Xem chi tiết</a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="card-body d-flex flex-column">
+                                                        <h5 class="card-title">GTX CON CHO DANG</h5>
+                                                        <p class="card-text">9.000.000 VNĐ</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-lg-3 col-md-4 d-flex align-items-md-stretch">
+                                                <div class="card">
+                                                    <div class="prdt-img">
+                                                        <img class="card-img-top card-img-size" src="./image/1.jpg"
+                                                            alt="Card image cap" />
+                                                        <div class="prdt-bg-opacity">
+                                                            <div class="prdt-command">
+                                                                <a onclick="showDetail('VGA11')"
+                                                                    class="btn btn-primary align-self-end btn-block text-white"
+                                                                    style="margin-top: auto">Xem chi tiết</a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="card-body d-flex flex-column">
+                                                        <h5 class="card-title">GTX CON CHO DANG</h5>
+                                                        <p class="card-text">9.000.000 VNĐ</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-lg-3 col-md-4 d-flex align-items-md-stretch">
+                                                <div class="card">
+                                                    <div class="prdt-img">
+                                                        <img class="card-img-top card-img-size" src="./image/1.jpg"
+                                                            alt="Card image cap" />
+                                                        <div class="prdt-bg-opacity">
+                                                            <div class="prdt-command">
+                                                                <a onclick="showDetail('VGA11')"
+                                                                    class="btn btn-primary align-self-end btn-block text-white"
+                                                                    style="margin-top: auto">Xem chi tiết</a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="card-body d-flex flex-column">
+                                                        <h5 class="card-title">GTX CON CHO DANG</h5>
+                                                        <p class="card-text">9.000.000 VNĐ</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-lg-3 col-md-4 d-flex align-items-md-stretch">
+                                                <div class="card">
+                                                    <div class="prdt-img">
+                                                        <img class="card-img-top card-img-size" src="./image/1.jpg"
+                                                            alt="Card image cap" />
+                                                        <div class="prdt-bg-opacity">
+                                                            <div class="prdt-command">
+                                                                <a onclick="showDetail('VGA11')"
+                                                                    class="btn btn-primary align-self-end btn-block text-white"
+                                                                    style="margin-top: auto">Xem chi tiết</a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="card-body d-flex flex-column">
+                                                        <h5 class="card-title">GTX CON CHO DANG</h5>
+                                                        <p class="card-text">9.000.000 VNĐ</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="carousel-item">
+                                        <div class="row">
+                                            <div class="col-lg-3 col-md-4 d-flex align-items-md-stretch">
+                                                <div class="card">
+                                                    <div class="prdt-img">
+                                                        <img class="card-img-top card-img-size" src="./image/1.jpg"
+                                                            alt="Card image cap" />
+                                                        <div class="prdt-bg-opacity">
+                                                            <div class="prdt-command">
+                                                                <a onclick="showDetail('VGA11')"
+                                                                    class="btn btn-primary align-self-end btn-block text-white"
+                                                                    style="margin-top: auto">Xem chi tiết</a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="card-body d-flex flex-column">
+                                                        <h5 class="card-title">GTX CON CHO DANG</h5>
+                                                        <p class="card-text">9.000.000 VNĐ</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-lg-3 col-md-4 d-flex align-items-md-stretch">
+                                                <div class="card">
+                                                    <div class="prdt-img">
+                                                        <img class="card-img-top card-img-size" src="./image/1.jpg"
+                                                            alt="Card image cap" />
+                                                        <div class="prdt-bg-opacity">
+                                                            <div class="prdt-command">
+                                                                <a onclick="showDetail('VGA11')"
+                                                                    class="btn btn-primary align-self-end btn-block text-white"
+                                                                    style="margin-top: auto">Xem chi tiết</a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="card-body d-flex flex-column">
+                                                        <h5 class="card-title">GTX CON CHO DANG</h5>
+                                                        <p class="card-text">9.000.000 VNĐ</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-lg-3 col-md-4 d-flex align-items-md-stretch">
+                                                <div class="card">
+                                                    <div class="prdt-img">
+                                                        <img class="card-img-top card-img-size" src="./image/1.jpg"
+                                                            alt="Card image cap" />
+                                                        <div class="prdt-bg-opacity">
+                                                            <div class="prdt-command">
+                                                                <a onclick="showDetail('VGA11')"
+                                                                    class="btn btn-primary align-self-end btn-block text-white"
+                                                                    style="margin-top: auto">Xem chi tiết</a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="card-body d-flex flex-column">
+                                                        <h5 class="card-title">GTX CON CHO DANG</h5>
+                                                        <p class="card-text">9.000.000 VNĐ</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-lg-3 col-md-4 d-flex align-items-md-stretch">
+                                                <div class="card">
+                                                    <div class="prdt-img">
+                                                        <img class="card-img-top card-img-size" src="./image/1.jpg"
+                                                            alt="Card image cap" />
+                                                        <div class="prdt-bg-opacity">
+                                                            <div class="prdt-command">
+                                                                <a onclick="showDetail('VGA11')"
+                                                                    class="btn btn-primary align-self-end btn-block text-white"
+                                                                    style="margin-top: auto">Xem chi tiết</a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="card-body d-flex flex-column">
+                                                        <h5 class="card-title">GTX CON CHO DANG</h5>
+                                                        <p class="card-text">9.000.000 VNĐ</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <a class="carousel-control-prev" href="#product-index-1" data-slide="prev"
+                                    style="width:30px; background:#bfbfbf;">
+                                    <span class="carousel-control-prev-icon"></span>
+                                </a>
+                                <a class="carousel-control-next" href="#product-index-1" data-slide="next"
+                                    style="width:30px; background:#bfbfbf;">
+                                    <span class="carousel-control-next-icon"></span>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- End sp moi -->
+                    <!-- Start sp km -->
+                    <div class="sp-khuyen-mai">
+                        <h2>SẢN PHẨM KHUYẾN MÃI</h2>
+                        <div class="prdt-container">
+                            <div id="product-index-2" class="carousel slide my-carousel-style" data-ride="carousel">
+                                <div class="carousel-inner">
+                                    <div class="carousel-item active ">
+                                        <div class="row">
+                                            <div class="col-lg-3 col-md-4 d-flex align-items-md-stretch">
+                                                <div class="card">
+                                                    <div class="prdt-img">
+                                                        <img class="card-img-top card-img-size" src="./image/1.jpg"
+                                                            alt="Card image cap" />
+                                                        <div class="prdt-bg-opacity">
+                                                            <div class="prdt-command">
+                                                                <a onclick="showDetail('VGA11')"
+                                                                    class="btn btn-primary align-self-end btn-block text-white"
+                                                                    style="margin-top: auto">Xem chi tiết</a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="card-body d-flex flex-column">
+                                                        <h5 class="card-title">GTX CON CHO DANG</h5>
+                                                        <p class="card-text">9.000.000 VNĐ</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-lg-3 col-md-4 d-flex align-items-md-stretch">
+                                                <div class="card">
+                                                    <div class="prdt-img">
+                                                        <img class="card-img-top card-img-size" src="./image/1.jpg"
+                                                            alt="Card image cap" />
+                                                        <div class="prdt-bg-opacity">
+                                                            <div class="prdt-command">
+                                                                <a onclick="showDetail('VGA11')"
+                                                                    class="btn btn-primary align-self-end btn-block text-white"
+                                                                    style="margin-top: auto">Xem chi tiết</a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="card-body d-flex flex-column">
+                                                        <h5 class="card-title">GTX CON CHO DANG</h5>
+                                                        <p class="card-text">9.000.000 VNĐ</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-lg-3 col-md-4 d-flex align-items-md-stretch">
+                                                <div class="card">
+                                                    <div class="prdt-img">
+                                                        <img class="card-img-top card-img-size" src="./image/1.jpg"
+                                                            alt="Card image cap" />
+                                                        <div class="prdt-bg-opacity">
+                                                            <div class="prdt-command">
+                                                                <a onclick="showDetail('VGA11')"
+                                                                    class="btn btn-primary align-self-end btn-block text-white"
+                                                                    style="margin-top: auto">Xem chi tiết</a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="card-body d-flex flex-column">
+                                                        <h5 class="card-title">GTX CON CHO DANG</h5>
+                                                        <p class="card-text">9.000.000 VNĐ</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-lg-3 col-md-4 d-flex align-items-md-stretch">
+                                                <div class="card">
+                                                    <div class="prdt-img">
+                                                        <img class="card-img-top card-img-size" src="./image/1.jpg"
+                                                            alt="Card image cap" />
+                                                        <div class="prdt-bg-opacity">
+                                                            <div class="prdt-command">
+                                                                <a onclick="showDetail('VGA11')"
+                                                                    class="btn btn-primary align-self-end btn-block text-white"
+                                                                    style="margin-top: auto">Xem chi tiết</a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="card-body d-flex flex-column">
+                                                        <h5 class="card-title">GTX CON CHO DANG</h5>
+                                                        <p class="card-text">9.000.000 VNĐ</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="carousel-item">
+                                        <div class="row">
+                                            <div class="col-lg-3 col-md-4 d-flex align-items-md-stretch">
+                                                <div class="card">
+                                                    <div class="prdt-img">
+                                                        <img class="card-img-top card-img-size" src="./image/1.jpg"
+                                                            alt="Card image cap" />
+                                                        <div class="prdt-bg-opacity">
+                                                            <div class="prdt-command">
+                                                                <a onclick="showDetail('VGA11')"
+                                                                    class="btn btn-primary align-self-end btn-block text-white"
+                                                                    style="margin-top: auto">Xem chi tiết</a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="card-body d-flex flex-column">
+                                                        <h5 class="card-title">GTX CON CHO DANG</h5>
+                                                        <p class="card-text">9.000.000 VNĐ</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-lg-3 col-md-4 d-flex align-items-md-stretch">
+                                                <div class="card">
+                                                    <div class="prdt-img">
+                                                        <img class="card-img-top card-img-size" src="./image/1.jpg"
+                                                            alt="Card image cap" />
+                                                        <div class="prdt-bg-opacity">
+                                                            <div class="prdt-command">
+                                                                <a onclick="showDetail('VGA11')"
+                                                                    class="btn btn-primary align-self-end btn-block text-white"
+                                                                    style="margin-top: auto">Xem chi tiết</a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="card-body d-flex flex-column">
+                                                        <h5 class="card-title">GTX CON CHO DANG</h5>
+                                                        <p class="card-text">9.000.000 VNĐ</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-lg-3 col-md-4 d-flex align-items-md-stretch">
+                                                <div class="card">
+                                                    <div class="prdt-img">
+                                                        <img class="card-img-top card-img-size" src="./image/1.jpg"
+                                                            alt="Card image cap" />
+                                                        <div class="prdt-bg-opacity">
+                                                            <div class="prdt-command">
+                                                                <a onclick="showDetail('VGA11')"
+                                                                    class="btn btn-primary align-self-end btn-block text-white"
+                                                                    style="margin-top: auto">Xem chi tiết</a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="card-body d-flex flex-column">
+                                                        <h5 class="card-title">GTX CON CHO DANG</h5>
+                                                        <p class="card-text">9.000.000 VNĐ</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-lg-3 col-md-4 d-flex align-items-md-stretch">
+                                                <div class="card">
+                                                    <div class="prdt-img">
+                                                        <img class="card-img-top card-img-size" src="./image/1.jpg"
+                                                            alt="Card image cap" />
+                                                        <div class="prdt-bg-opacity">
+                                                            <div class="prdt-command">
+                                                                <a onclick="showDetail('VGA11')"
+                                                                    class="btn btn-primary align-self-end btn-block text-white"
+                                                                    style="margin-top: auto">Xem chi tiết</a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="card-body d-flex flex-column">
+                                                        <h5 class="card-title">GTX CON CHO DANG</h5>
+                                                        <p class="card-text">9.000.000 VNĐ</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <a class="carousel-control-prev" href="#product-index-2" data-slide="prev"
+                                    style="width:30px; background:#bfbfbf;">
+                                    <span class="carousel-control-prev-icon"></span>
+                                </a>
+                                <a class="carousel-control-next" href="#product-index-2" data-slide="next"
+                                    style="width:30px; background:#bfbfbf;">
+                                    <span class="carousel-control-next-icon"></span>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- End sp km -->
+                    <!-- Start sp ban chay -->
+                    <div class="sp-ban-chay">
+                        <h2>SẢN PHẨM BÁN CHẠY</h2>
+                        <div class="prdt-container">
+                            <div id="product-index-3" class="carousel slide my-carousel-style" data-ride="carousel">
+                                <div class="carousel-inner">
+                                    <div class="carousel-item active ">
+                                        <div class="row">
+                                            <div class="col-lg-3 col-md-4 d-flex align-items-md-stretch">
+                                                <div class="card">
+                                                    <div class="prdt-img">
+                                                        <img class="card-img-top card-img-size" src="./image/1.jpg"
+                                                            alt="Card image cap" />
+                                                        <div class="prdt-bg-opacity">
+                                                            <div class="prdt-command">
+                                                                <a onclick="showDetail('VGA11')"
+                                                                    class="btn btn-primary align-self-end btn-block text-white"
+                                                                    style="margin-top: auto">Xem chi tiết</a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="card-body d-flex flex-column">
+                                                        <h5 class="card-title">GTX CON CHO DANG</h5>
+                                                        <p class="card-text">9.000.000 VNĐ</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-lg-3 col-md-4 d-flex align-items-md-stretch">
+                                                <div class="card">
+                                                    <div class="prdt-img">
+                                                        <img class="card-img-top card-img-size" src="./image/1.jpg"
+                                                            alt="Card image cap" />
+                                                        <div class="prdt-bg-opacity">
+                                                            <div class="prdt-command">
+                                                                <a onclick="showDetail('VGA11')"
+                                                                    class="btn btn-primary align-self-end btn-block text-white"
+                                                                    style="margin-top: auto">Xem chi tiết</a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="card-body d-flex flex-column">
+                                                        <h5 class="card-title">GTX CON CHO DANG</h5>
+                                                        <p class="card-text">9.000.000 VNĐ</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-lg-3 col-md-4 d-flex align-items-md-stretch">
+                                                <div class="card">
+                                                    <div class="prdt-img">
+                                                        <img class="card-img-top card-img-size" src="./image/1.jpg"
+                                                            alt="Card image cap" />
+                                                        <div class="prdt-bg-opacity">
+                                                            <div class="prdt-command">
+                                                                <a onclick="showDetail('VGA11')"
+                                                                    class="btn btn-primary align-self-end btn-block text-white"
+                                                                    style="margin-top: auto">Xem chi tiết</a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="card-body d-flex flex-column">
+                                                        <h5 class="card-title">GTX CON CHO DANG</h5>
+                                                        <p class="card-text">9.000.000 VNĐ</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-lg-3 col-md-4 d-flex align-items-md-stretch">
+                                                <div class="card">
+                                                    <div class="prdt-img">
+                                                        <img class="card-img-top card-img-size" src="./image/1.jpg"
+                                                            alt="Card image cap" />
+                                                        <div class="prdt-bg-opacity">
+                                                            <div class="prdt-command">
+                                                                <a onclick="showDetail('VGA11')"
+                                                                    class="btn btn-primary align-self-end btn-block text-white"
+                                                                    style="margin-top: auto">Xem chi tiết</a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="card-body d-flex flex-column">
+                                                        <h5 class="card-title">GTX CON CHO DANG</h5>
+                                                        <p class="card-text">9.000.000 VNĐ</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="carousel-item">
+                                        <div class="row">
+                                            <div class="col-lg-3 col-md-4 d-flex align-items-md-stretch">
+                                                <div class="card">
+                                                    <div class="prdt-img">
+                                                        <img class="card-img-top card-img-size" src="./image/1.jpg"
+                                                            alt="Card image cap" />
+                                                        <div class="prdt-bg-opacity">
+                                                            <div class="prdt-command">
+                                                                <a onclick="showDetail('VGA11')"
+                                                                    class="btn btn-primary align-self-end btn-block text-white"
+                                                                    style="margin-top: auto">Xem chi tiết</a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="card-body d-flex flex-column">
+                                                        <h5 class="card-title">GTX CON CHO DANG</h5>
+                                                        <p class="card-text">9.000.000 VNĐ</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-lg-3 col-md-4 d-flex align-items-md-stretch">
+                                                <div class="card">
+                                                    <div class="prdt-img">
+                                                        <img class="card-img-top card-img-size" src="./image/1.jpg"
+                                                            alt="Card image cap" />
+                                                        <div class="prdt-bg-opacity">
+                                                            <div class="prdt-command">
+                                                                <a onclick="showDetail('VGA11')"
+                                                                    class="btn btn-primary align-self-end btn-block text-white"
+                                                                    style="margin-top: auto">Xem chi tiết</a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="card-body d-flex flex-column">
+                                                        <h5 class="card-title">GTX CON CHO DANG</h5>
+                                                        <p class="card-text">9.000.000 VNĐ</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-lg-3 col-md-4 d-flex align-items-md-stretch">
+                                                <div class="card">
+                                                    <div class="prdt-img">
+                                                        <img class="card-img-top card-img-size" src="./image/1.jpg"
+                                                            alt="Card image cap" />
+                                                        <div class="prdt-bg-opacity">
+                                                            <div class="prdt-command">
+                                                                <a onclick="showDetail('VGA11')"
+                                                                    class="btn btn-primary align-self-end btn-block text-white"
+                                                                    style="margin-top: auto">Xem chi tiết</a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="card-body d-flex flex-column">
+                                                        <h5 class="card-title">GTX CON CHO DANG</h5>
+                                                        <p class="card-text">9.000.000 VNĐ</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-lg-3 col-md-4 d-flex align-items-md-stretch">
+                                                <div class="card">
+                                                    <div class="prdt-img">
+                                                        <img class="card-img-top card-img-size" src="./image/1.jpg"
+                                                            alt="Card image cap" />
+                                                        <div class="prdt-bg-opacity">
+                                                            <div class="prdt-command">
+                                                                <a onclick="showDetail('VGA11')"
+                                                                    class="btn btn-primary align-self-end btn-block text-white"
+                                                                    style="margin-top: auto">Xem chi tiết</a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="card-body d-flex flex-column">
+                                                        <h5 class="card-title">GTX CON CHO DANG</h5>
+                                                        <p class="card-text">9.000.000 VNĐ</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <a class="carousel-control-prev" href="#product-index-3" data-slide="prev"
+                                    style="width:30px; background:#bfbfbf;">
+                                    <span class="carousel-control-prev-icon"></span>
+                                </a>
+                                <a class="carousel-control-next" href="#product-index-3" data-slide="next"
+                                    style="width:30px; background:#bfbfbf;">
+                                    <span class="carousel-control-next-icon"></span>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- End sp ban chay -->
